@@ -1,4 +1,8 @@
 ### Salut, moi c'est Marylyne 👋
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 Étudiante ingénieure en dernière année à l'ESIGELEC (spécialité Ingénierie des Services du Numérique), actuellement en recherche d'un CDI en développement — C++/Qt en priorité, avec de l'intérêt aussi pour le backend Java et le full-stack.
 

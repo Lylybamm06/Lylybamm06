@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-Ingénieure diplomée de l'ESIGELEC (spécialité Ingénierie des Services du Numérique), actuellement en recherche d'un CDI en développement — C++/Qt en priorité, avec de l'intérêt aussi pour le backend Java et le full-stack.
+Ingénieure diplomée de l'ESIGELEC (spécialité Ingénierie des Services du Numérique), actuellement en recherche d'un CDI en développement  C++/Qt en priorité, avec de l'intérêt aussi pour le backend Java et le full-stack.
 
 Ce que j'aime dans le dev, c'est prendre un problème concret et le découper jusqu'à trouver une solution propre — que ce soit sur une appli desktop, mobile ou web.
 

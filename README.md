@@ -6,7 +6,7 @@
 
 Ingénieure diplomée de l'ESIGELEC (spécialité Ingénierie des Services du Numérique), actuellement en recherche d'un CDI en développement  C++/Qt en priorité, avec de l'intérêt aussi pour le backend Java et le full-stack.
 
-Ce que j'aime dans le dev, c'est prendre un problème concret et le découper jusqu'à trouver une solution propre — que ce soit sur une appli desktop, mobile ou web.
+Ce que j'aime dans le dev, c'est prendre un problème concret et le découper jusqu'à trouver une solution propre que ce soit sur une appli desktop, mobile ou web.
 
 **Ce que je fais en ce moment :**
 - 🔍 Recherche active d'un poste en région parisienne

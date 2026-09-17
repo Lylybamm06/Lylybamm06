@@ -11,7 +11,7 @@ Ce que j'aime dans le dev, c'est prendre un problème concret et le découper ju
 **Ce que je fais en ce moment :**
 - 🔍 Recherche active d'un poste en région parisienne
 - 📚 Je consolide mes bases en C++ (algo, structures, bonnes pratiques) en parallèle
-- 🛠️ J'ai deux ans d'expérience en développement C++/Qt en alternance (IT/ATRAQ)
+- 🛠️ J'ai trois ans d'expérience en développement C++/Qt en alternance (IT/ATRAQ)
 
 **Quelques projets ici :**
 - `gestion-locative-java` — application Java/Swing avec architecture DAO

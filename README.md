@@ -18,4 +18,4 @@ Ce que j'aime dans le dev, c'est prendre un problème concret et le découper ju
 - `gestion-logements-android` — appli Android avec Firebase Firestore
 - `exercices-fullstack-js` — exercices React + Node.js
 
-📫 Pour me contacter : [[(https://www.linkedin.com/in/marylyne-adisso-0608512a0/)]](https://github.com/Lylybamm06/Lylybamm06/edit/main/README.md)(https://www.linkedin.com/in/marylyne-adisso-0608512a0/)
+📫 Pour me contacter :(https://github.com/Lylybamm06/Lylybamm06/edit/main/README.md)(https://www.linkedin.com/in/marylyne-adisso-0608512a0/)
